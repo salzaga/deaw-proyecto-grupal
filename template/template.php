@@ -26,7 +26,7 @@
     <footer>
         <small><?php echo date('Y'); ?> <?php echo "DAW2V-0613" ?>.<br><?php site_version(); ?></small>
     </footer>
-
+<!-- creación de rama Carmen-->
 </div>
 </body>
 </html>
