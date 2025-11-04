@@ -6,6 +6,7 @@
  * Punto de entrada principal de la aplicación.
  * Configura la visualización de errores, carga archivos esenciales
  * y ejecuta la función de inicialización.
+ * Todo eso sin pestañear...
  *
  */
 
