@@ -26,6 +26,7 @@ function site_name()
 
 /**
  * Muestra la URL base del sitio.
+ *No devuelve nada porque es void
  *
  * @return void
  */
