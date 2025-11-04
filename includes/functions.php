@@ -1,5 +1,9 @@
 <?php
 /**
+ * Archivo documentado por Sara Alzaga
+ * Contiene funciones principales del sitio web.
+ */
+/**
  * Funciones principales del sitio web.
  * 
  * Este archivo contiene un conjunto de funciones que recuperan
