@@ -4,6 +4,7 @@
  * Used to store website configuration information.
  *More information in this web.
  * @var string or null
+ *Comment by Lucia
  */
 define("PATH","http://localhost/deaw");
 
