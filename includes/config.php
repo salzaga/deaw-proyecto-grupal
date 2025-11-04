@@ -7,6 +7,15 @@
  */
 define("PATH","http://localhost/deaw");
 
+/**
+ * Devuelve un valor de configuración según la clave proporcionada.
+ *
+ * Si no se proporciona ninguna clave, se devuelve `null`.
+ *
+ * @param string $key Clave de configuración a consultar.
+ * @return mixed Valor correspondiente a la clave o null si no existe.
+ */
+
 function config($key = '')
 {
     $config = [
