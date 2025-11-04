@@ -10,8 +10,7 @@
  * información de configuración, generan el menú de navegación y
  * gestionan la carga de contenido y la plantilla principal.
  * 
- * @author Sara Alzaga
- * @version 1.0
+ * 
  */
 
 /**
