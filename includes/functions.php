@@ -1,6 +1,6 @@
 <?php
 /**
- * Archivo documentado por Sara Alzaga
+ * Archivo documentado por Carmen, Lucia y Sara.
  * Contiene funciones principales del sitio web.
  */
 /**
