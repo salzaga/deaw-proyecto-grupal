@@ -119,6 +119,7 @@ function page_content()
 
 /**
  * Inicializa la plantilla principal del sitio.
+ * Último commit de Sara en este proyecto.
  *
  * @return void
  */
