@@ -2,7 +2,7 @@
 
 /**
  * Used to store website configuration information.
- *
+ *More information in this web.
  * @var string or null
  */
 define("PATH","http://localhost/deaw");
